@@ -1,0 +1,2407 @@
+[[{
+    "nombredelcuestionario": "PRIMER EXAMEN 20 DE FEBRERO",
+    "nombredelcurso": "SISTEM. ORGÁN. INTEGRADOS III",
+    "abrircuestionario": "viernes, 20 de febrero de 2026, 07:30",
+    "cerrarcuestionario": "viernes, 20 de febrero de 2026, 09:00",
+    "abiertopor": "1 hora 30 minutos",
+    "nmerodeprimerosintentoscompletoscalificados": "89",
+    "nmerototaldeintentoscompletados": "89",
+    "promediodelosprimerosintentos": "59,98%",
+    "promediodetodoslosintentos": "59,98%",
+    "calificacinmediadelosltimosintentos": "59,98%",
+    "calificacinmediadelosmejoresintentos": "59,98%",
+    "medianadeintentosconmejorescalificaciones": "62,22%",
+    "desviacinestndarparaintentosconmejorescalificaciones": "14,05%",
+    "asimetradeladistribucindepuntuacionesparaintentosconmejorescalificaciones": "-0,2442",
+    "curtosisdeladistribucindepuntuacionesparaintentosconmejorescalificaciones": "-0,1354",
+    "coeficientedeconsistenciainternaparaintentosconmejorescalificaciones": "74,65%",
+    "ratiodeerrorparaintentosconmejorescalificaciones": "50,34%",
+    "errorestndarparaintentosconmejorescalificaciones": "7,07%"
+}],[{
+    "q": "1",
+    "tipodepregunta": "Aleatoria",
+    "nombredelapregunta": "Pregunta aleatoria",
+    "intentos": "89",
+    "ndicedefacilidad": "62,92%",
+    "desviacinestndar": "48,58%",
+    "calificacinaleatoriaestimada": "",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "2,15%",
+    "ndicedediscriminacin": "18,78%",
+    "eficienciadiscriminativa": "23,43%"
+},{
+    "q": "2",
+    "tipodepregunta": "Aleatoria",
+    "nombredelapregunta": "Pregunta aleatoria",
+    "intentos": "89",
+    "ndicedefacilidad": "64,04%",
+    "desviacinestndar": "48,26%",
+    "calificacinaleatoriaestimada": "",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "2,40%",
+    "ndicedediscriminacin": "25,97%",
+    "eficienciadiscriminativa": "32,43%"
+},{
+    "q": "3",
+    "tipodepregunta": "Aleatoria",
+    "nombredelapregunta": "Pregunta aleatoria",
+    "intentos": "89",
+    "ndicedefacilidad": "67,42%",
+    "desviacinestndar": "47,13%",
+    "calificacinaleatoriaestimada": "",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "1,37%",
+    "ndicedediscriminacin": "3,50%",
+    "eficienciadiscriminativa": "4,45%"
+},{
+    "q": "4",
+    "tipodepregunta": "Aleatoria",
+    "nombredelapregunta": "Pregunta aleatoria",
+    "intentos": "89",
+    "ndicedefacilidad": "50,56%",
+    "desviacinestndar": "50,28%",
+    "calificacinaleatoriaestimada": "",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "2,23%",
+    "ndicedediscriminacin": "19,77%",
+    "eficienciadiscriminativa": "24,41%"
+},{
+    "q": "5",
+    "tipodepregunta": "Aleatoria",
+    "nombredelapregunta": "Pregunta aleatoria",
+    "intentos": "89",
+    "ndicedefacilidad": "59,55%",
+    "desviacinestndar": "49,36%",
+    "calificacinaleatoriaestimada": "",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "2,36%",
+    "ndicedediscriminacin": "23,88%",
+    "eficienciadiscriminativa": "29,41%"
+},{
+    "q": "6",
+    "tipodepregunta": "Aleatoria",
+    "nombredelapregunta": "Pregunta aleatoria",
+    "intentos": "89",
+    "ndicedefacilidad": "61,80%",
+    "desviacinestndar": "48,86%",
+    "calificacinaleatoriaestimada": "",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "2,60%",
+    "ndicedediscriminacin": "31,23%",
+    "eficienciadiscriminativa": "38,49%"
+},{
+    "q": "7",
+    "tipodepregunta": "Aleatoria",
+    "nombredelapregunta": "Pregunta aleatoria",
+    "intentos": "89",
+    "ndicedefacilidad": "66,29%",
+    "desviacinestndar": "47,54%",
+    "calificacinaleatoriaestimada": "",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "2,21%",
+    "ndicedediscriminacin": "21,10%",
+    "eficienciadiscriminativa": "26,75%"
+},{
+    "q": "8",
+    "tipodepregunta": "Aleatoria",
+    "nombredelapregunta": "Pregunta aleatoria",
+    "intentos": "89",
+    "ndicedefacilidad": "55,06%",
+    "desviacinestndar": "50,03%",
+    "calificacinaleatoriaestimada": "",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "2,10%",
+    "ndicedediscriminacin": "16,63%",
+    "eficienciadiscriminativa": "20,19%"
+},{
+    "q": "9",
+    "tipodepregunta": "Aleatoria",
+    "nombredelapregunta": "Pregunta aleatoria",
+    "intentos": "89",
+    "ndicedefacilidad": "65,17%",
+    "desviacinestndar": "47,91%",
+    "calificacinaleatoriaestimada": "",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "1,37%",
+    "ndicedediscriminacin": "3,19%",
+    "eficienciadiscriminativa": "4,00%"
+},{
+    "q": "10",
+    "tipodepregunta": "Aleatoria",
+    "nombredelapregunta": "Pregunta aleatoria",
+    "intentos": "89",
+    "ndicedefacilidad": "64,04%",
+    "desviacinestndar": "48,26%",
+    "calificacinaleatoriaestimada": "",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "2,08%",
+    "ndicedediscriminacin": "17,47%",
+    "eficienciadiscriminativa": "21,86%"
+},{
+    "q": "11",
+    "tipodepregunta": "Aleatoria",
+    "nombredelapregunta": "Pregunta aleatoria",
+    "intentos": "89",
+    "ndicedefacilidad": "67,42%",
+    "desviacinestndar": "47,13%",
+    "calificacinaleatoriaestimada": "",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "2,85%",
+    "ndicedediscriminacin": "41,47%",
+    "eficienciadiscriminativa": "52,79%"
+},{
+    "q": "12",
+    "tipodepregunta": "Aleatoria",
+    "nombredelapregunta": "Pregunta aleatoria",
+    "intentos": "89",
+    "ndicedefacilidad": "62,92%",
+    "desviacinestndar": "48,58%",
+    "calificacinaleatoriaestimada": "",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "2,28%",
+    "ndicedediscriminacin": "22,22%",
+    "eficienciadiscriminativa": "27,92%"
+},{
+    "q": "13",
+    "tipodepregunta": "Aleatoria",
+    "nombredelapregunta": "Pregunta aleatoria",
+    "intentos": "89",
+    "ndicedefacilidad": "61,80%",
+    "desviacinestndar": "48,86%",
+    "calificacinaleatoriaestimada": "",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "2,56%",
+    "ndicedediscriminacin": "30,07%",
+    "eficienciadiscriminativa": "37,09%"
+},{
+    "q": "14",
+    "tipodepregunta": "Aleatoria",
+    "nombredelapregunta": "Pregunta aleatoria",
+    "intentos": "89",
+    "ndicedefacilidad": "58,43%",
+    "desviacinestndar": "49,56%",
+    "calificacinaleatoriaestimada": "",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "2,50%",
+    "ndicedediscriminacin": "27,50%",
+    "eficienciadiscriminativa": "33,78%"
+},{
+    "q": "15",
+    "tipodepregunta": "Aleatoria",
+    "nombredelapregunta": "Pregunta aleatoria",
+    "intentos": "89",
+    "ndicedefacilidad": "61,80%",
+    "desviacinestndar": "48,86%",
+    "calificacinaleatoriaestimada": "",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "1,37%",
+    "ndicedediscriminacin": "2,81%",
+    "eficienciadiscriminativa": "3,46%"
+},{
+    "q": "16",
+    "tipodepregunta": "Aleatoria",
+    "nombredelapregunta": "Pregunta aleatoria",
+    "intentos": "89",
+    "ndicedefacilidad": "60,67%",
+    "desviacinestndar": "49,12%",
+    "calificacinaleatoriaestimada": "",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "2,29%",
+    "ndicedediscriminacin": "22,17%",
+    "eficienciadiscriminativa": "27,44%"
+},{
+    "q": "17",
+    "tipodepregunta": "Aleatoria",
+    "nombredelapregunta": "Pregunta aleatoria",
+    "intentos": "89",
+    "ndicedefacilidad": "53,93%",
+    "desviacinestndar": "50,13%",
+    "calificacinaleatoriaestimada": "",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "2,26%",
+    "ndicedediscriminacin": "20,63%",
+    "eficienciadiscriminativa": "25,03%"
+},{
+    "q": "18",
+    "tipodepregunta": "Aleatoria",
+    "nombredelapregunta": "Pregunta aleatoria",
+    "intentos": "89",
+    "ndicedefacilidad": "56,18%",
+    "desviacinestndar": "49,90%",
+    "calificacinaleatoriaestimada": "",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "2,46%",
+    "ndicedediscriminacin": "26,06%",
+    "eficienciadiscriminativa": "31,45%"
+},{
+    "q": "19",
+    "tipodepregunta": "Aleatoria",
+    "nombredelapregunta": "Pregunta aleatoria",
+    "intentos": "89",
+    "ndicedefacilidad": "65,17%",
+    "desviacinestndar": "47,91%",
+    "calificacinaleatoriaestimada": "",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "1,50%",
+    "ndicedediscriminacin": "5,46%",
+    "eficienciadiscriminativa": "6,90%"
+},{
+    "q": "20",
+    "tipodepregunta": "Aleatoria",
+    "nombredelapregunta": "Pregunta aleatoria",
+    "intentos": "89",
+    "ndicedefacilidad": "70,79%",
+    "desviacinestndar": "45,73%",
+    "calificacinaleatoriaestimada": "",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "2,09%",
+    "ndicedediscriminacin": "19,30%",
+    "eficienciadiscriminativa": "24,99%"
+},{
+    "q": "21",
+    "tipodepregunta": "Aleatoria",
+    "nombredelapregunta": "Pregunta aleatoria",
+    "intentos": "89",
+    "ndicedefacilidad": "55,06%",
+    "desviacinestndar": "50,03%",
+    "calificacinaleatoriaestimada": "",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "1,97%",
+    "ndicedediscriminacin": "13,67%",
+    "eficienciadiscriminativa": "16,64%"
+},{
+    "q": "22",
+    "tipodepregunta": "Aleatoria",
+    "nombredelapregunta": "Pregunta aleatoria",
+    "intentos": "89",
+    "ndicedefacilidad": "62,92%",
+    "desviacinestndar": "48,58%",
+    "calificacinaleatoriaestimada": "",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "1,34%",
+    "ndicedediscriminacin": "2,55%",
+    "eficienciadiscriminativa": "3,18%"
+},{
+    "q": "23",
+    "tipodepregunta": "Aleatoria",
+    "nombredelapregunta": "Pregunta aleatoria",
+    "intentos": "89",
+    "ndicedefacilidad": "53,93%",
+    "desviacinestndar": "50,13%",
+    "calificacinaleatoriaestimada": "",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "1,95%",
+    "ndicedediscriminacin": "13,24%",
+    "eficienciadiscriminativa": "15,95%"
+},{
+    "q": "24",
+    "tipodepregunta": "Aleatoria",
+    "nombredelapregunta": "Pregunta aleatoria",
+    "intentos": "89",
+    "ndicedefacilidad": "58,43%",
+    "desviacinestndar": "49,56%",
+    "calificacinaleatoriaestimada": "",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "2,08%",
+    "ndicedediscriminacin": "16,57%",
+    "eficienciadiscriminativa": "20,08%"
+},{
+    "q": "25",
+    "tipodepregunta": "Aleatoria",
+    "nombredelapregunta": "Pregunta aleatoria",
+    "intentos": "89",
+    "ndicedefacilidad": "49,44%",
+    "desviacinestndar": "50,28%",
+    "calificacinaleatoriaestimada": "",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "2,57%",
+    "ndicedediscriminacin": "29,09%",
+    "eficienciadiscriminativa": "35,50%"
+},{
+    "q": "26",
+    "tipodepregunta": "Aleatoria",
+    "nombredelapregunta": "Pregunta aleatoria",
+    "intentos": "89",
+    "ndicedefacilidad": "60,67%",
+    "desviacinestndar": "49,12%",
+    "calificacinaleatoriaestimada": "",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "2,77%",
+    "ndicedediscriminacin": "36,39%",
+    "eficienciadiscriminativa": "44,96%"
+},{
+    "q": "27",
+    "tipodepregunta": "Aleatoria",
+    "nombredelapregunta": "Pregunta aleatoria",
+    "intentos": "89",
+    "ndicedefacilidad": "64,04%",
+    "desviacinestndar": "48,26%",
+    "calificacinaleatoriaestimada": "",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "2,50%",
+    "ndicedediscriminacin": "28,70%",
+    "eficienciadiscriminativa": "36,28%"
+},{
+    "q": "28",
+    "tipodepregunta": "Aleatoria",
+    "nombredelapregunta": "Pregunta aleatoria",
+    "intentos": "89",
+    "ndicedefacilidad": "56,18%",
+    "desviacinestndar": "49,90%",
+    "calificacinaleatoriaestimada": "",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "2,51%",
+    "ndicedediscriminacin": "27,57%",
+    "eficienciadiscriminativa": "33,68%"
+},{
+    "q": "29",
+    "tipodepregunta": "Aleatoria",
+    "nombredelapregunta": "Pregunta aleatoria",
+    "intentos": "89",
+    "ndicedefacilidad": "64,04%",
+    "desviacinestndar": "48,26%",
+    "calificacinaleatoriaestimada": "",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "2,05%",
+    "ndicedediscriminacin": "16,70%",
+    "eficienciadiscriminativa": "20,91%"
+},{
+    "q": "30",
+    "tipodepregunta": "Aleatoria",
+    "nombredelapregunta": "Pregunta aleatoria",
+    "intentos": "89",
+    "ndicedefacilidad": "64,04%",
+    "desviacinestndar": "48,26%",
+    "calificacinaleatoriaestimada": "",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "2,64%",
+    "ndicedediscriminacin": "33,00%",
+    "eficienciadiscriminativa": "40,99%"
+},{
+    "q": "31",
+    "tipodepregunta": "Aleatoria",
+    "nombredelapregunta": "Pregunta aleatoria",
+    "intentos": "89",
+    "ndicedefacilidad": "53,93%",
+    "desviacinestndar": "50,13%",
+    "calificacinaleatoriaestimada": "",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "2,43%",
+    "ndicedediscriminacin": "25,11%",
+    "eficienciadiscriminativa": "30,49%"
+},{
+    "q": "32",
+    "tipodepregunta": "Aleatoria",
+    "nombredelapregunta": "Pregunta aleatoria",
+    "intentos": "89",
+    "ndicedefacilidad": "58,43%",
+    "desviacinestndar": "49,56%",
+    "calificacinaleatoriaestimada": "",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "2,22%",
+    "ndicedediscriminacin": "19,94%",
+    "eficienciadiscriminativa": "24,42%"
+},{
+    "q": "33",
+    "tipodepregunta": "Aleatoria",
+    "nombredelapregunta": "Pregunta aleatoria",
+    "intentos": "89",
+    "ndicedefacilidad": "67,42%",
+    "desviacinestndar": "47,13%",
+    "calificacinaleatoriaestimada": "",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "2,73%",
+    "ndicedediscriminacin": "37,41%",
+    "eficienciadiscriminativa": "48,26%"
+},{
+    "q": "34",
+    "tipodepregunta": "Aleatoria",
+    "nombredelapregunta": "Pregunta aleatoria",
+    "intentos": "89",
+    "ndicedefacilidad": "60,67%",
+    "desviacinestndar": "49,12%",
+    "calificacinaleatoriaestimada": "",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "1,65%",
+    "ndicedediscriminacin": "7,52%",
+    "eficienciadiscriminativa": "9,20%"
+},{
+    "q": "35",
+    "tipodepregunta": "Aleatoria",
+    "nombredelapregunta": "Pregunta aleatoria",
+    "intentos": "89",
+    "ndicedefacilidad": "50,56%",
+    "desviacinestndar": "50,28%",
+    "calificacinaleatoriaestimada": "",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "1,76%",
+    "ndicedediscriminacin": "9,12%",
+    "eficienciadiscriminativa": "11,16%"
+},{
+    "q": "36",
+    "tipodepregunta": "Aleatoria",
+    "nombredelapregunta": "Pregunta aleatoria",
+    "intentos": "89",
+    "ndicedefacilidad": "55,06%",
+    "desviacinestndar": "50,03%",
+    "calificacinaleatoriaestimada": "",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "2,59%",
+    "ndicedediscriminacin": "29,72%",
+    "eficienciadiscriminativa": "36,03%"
+},{
+    "q": "37",
+    "tipodepregunta": "Aleatoria",
+    "nombredelapregunta": "Pregunta aleatoria",
+    "intentos": "89",
+    "ndicedefacilidad": "56,18%",
+    "desviacinestndar": "49,90%",
+    "calificacinaleatoriaestimada": "",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "2,32%",
+    "ndicedediscriminacin": "22,31%",
+    "eficienciadiscriminativa": "27,24%"
+},{
+    "q": "38",
+    "tipodepregunta": "Aleatoria",
+    "nombredelapregunta": "Pregunta aleatoria",
+    "intentos": "89",
+    "ndicedefacilidad": "68,54%",
+    "desviacinestndar": "46,70%",
+    "calificacinaleatoriaestimada": "",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "2,32%",
+    "ndicedediscriminacin": "24,96%",
+    "eficienciadiscriminativa": "31,83%"
+},{
+    "q": "39",
+    "tipodepregunta": "Aleatoria",
+    "nombredelapregunta": "Pregunta aleatoria",
+    "intentos": "89",
+    "ndicedefacilidad": "52,81%",
+    "desviacinestndar": "50,20%",
+    "calificacinaleatoriaestimada": "",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "2,14%",
+    "ndicedediscriminacin": "17,61%",
+    "eficienciadiscriminativa": "21,36%"
+},{
+    "q": "40",
+    "tipodepregunta": "Aleatoria",
+    "nombredelapregunta": "Pregunta aleatoria",
+    "intentos": "89",
+    "ndicedefacilidad": "66,29%",
+    "desviacinestndar": "47,54%",
+    "calificacinaleatoriaestimada": "",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "2,31%",
+    "ndicedediscriminacin": "23,85%",
+    "eficienciadiscriminativa": "30,17%"
+},{
+    "q": "41",
+    "tipodepregunta": "Aleatoria",
+    "nombredelapregunta": "Pregunta aleatoria",
+    "intentos": "89",
+    "ndicedefacilidad": "55,06%",
+    "desviacinestndar": "50,03%",
+    "calificacinaleatoriaestimada": "",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "2,02%",
+    "ndicedediscriminacin": "14,78%",
+    "eficienciadiscriminativa": "17,97%"
+},{
+    "q": "42",
+    "tipodepregunta": "Aleatoria",
+    "nombredelapregunta": "Pregunta aleatoria",
+    "intentos": "89",
+    "ndicedefacilidad": "62,92%",
+    "desviacinestndar": "48,58%",
+    "calificacinaleatoriaestimada": "",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "2,10%",
+    "ndicedediscriminacin": "17,63%",
+    "eficienciadiscriminativa": "21,71%"
+},{
+    "q": "43",
+    "tipodepregunta": "Aleatoria",
+    "nombredelapregunta": "Pregunta aleatoria",
+    "intentos": "89",
+    "ndicedefacilidad": "59,55%",
+    "desviacinestndar": "49,36%",
+    "calificacinaleatoriaestimada": "",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "2,48%",
+    "ndicedediscriminacin": "27,30%",
+    "eficienciadiscriminativa": "33,53%"
+},{
+    "q": "44",
+    "tipodepregunta": "Aleatoria",
+    "nombredelapregunta": "Pregunta aleatoria",
+    "intentos": "89",
+    "ndicedefacilidad": "55,06%",
+    "desviacinestndar": "50,03%",
+    "calificacinaleatoriaestimada": "",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "2,61%",
+    "ndicedediscriminacin": "30,48%",
+    "eficienciadiscriminativa": "37,25%"
+},{
+    "q": "45",
+    "tipodepregunta": "Aleatoria",
+    "nombredelapregunta": "Pregunta aleatoria",
+    "intentos": "89",
+    "ndicedefacilidad": "51,69%",
+    "desviacinestndar": "50,25%",
+    "calificacinaleatoriaestimada": "",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "2,91%",
+    "ndicedediscriminacin": "39,74%",
+    "eficienciadiscriminativa": "48,27%"
+},{
+    "q": "45.1",
+    "tipodepregunta": "Opción múltiple",
+    "nombredelapregunta": "AMS",
+    "intentos": "87",
+    "ndicedefacilidad": "45,98%",
+    "desviacinestndar": "50,13%",
+    "calificacinaleatoriaestimada": "25,00%",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "",
+    "ndicedediscriminacin": "37,57%",
+    "eficienciadiscriminativa": "46,30%"
+},{
+    "q": "45.2",
+    "tipodepregunta": "Opción múltiple",
+    "nombredelapregunta": "Anatomia región inframesocolica",
+    "intentos": "88",
+    "ndicedefacilidad": "45,45%",
+    "desviacinestndar": "50,08%",
+    "calificacinaleatoriaestimada": "25,00%",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "",
+    "ndicedediscriminacin": "29,55%",
+    "eficienciadiscriminativa": "36,73%"
+},{
+    "q": "45.3",
+    "tipodepregunta": "Opción múltiple",
+    "nombredelapregunta": "hem 1",
+    "intentos": "88",
+    "ndicedefacilidad": "78,41%",
+    "desviacinestndar": "41,38%",
+    "calificacinaleatoriaestimada": "20,00%",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "",
+    "ndicedediscriminacin": "41,41%",
+    "eficienciadiscriminativa": "58,23%"
+},{
+    "q": "45.4",
+    "tipodepregunta": "Opción múltiple",
+    "nombredelapregunta": "Hem 2",
+    "intentos": "89",
+    "ndicedefacilidad": "74,16%",
+    "desviacinestndar": "44,03%",
+    "calificacinaleatoriaestimada": "20,00%",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "",
+    "ndicedediscriminacin": "21,94%",
+    "eficienciadiscriminativa": "29,41%"
+},{
+    "q": "45.5",
+    "tipodepregunta": "Opción múltiple",
+    "nombredelapregunta": "Cir1",
+    "intentos": "89",
+    "ndicedefacilidad": "69,66%",
+    "desviacinestndar": "46,23%",
+    "calificacinaleatoriaestimada": "20,00%",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "",
+    "ndicedediscriminacin": "14,66%",
+    "eficienciadiscriminativa": "18,88%"
+},{
+    "q": "45.6",
+    "tipodepregunta": "Opción múltiple",
+    "nombredelapregunta": "cir2",
+    "intentos": "86",
+    "ndicedefacilidad": "61,63%",
+    "desviacinestndar": "48,91%",
+    "calificacinaleatoriaestimada": "20,00%",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "",
+    "ndicedediscriminacin": "36,74%",
+    "eficienciadiscriminativa": "45,56%"
+},{
+    "q": "45.7",
+    "tipodepregunta": "Opción múltiple",
+    "nombredelapregunta": "espi1",
+    "intentos": "87",
+    "ndicedefacilidad": "81,61%",
+    "desviacinestndar": "38,97%",
+    "calificacinaleatoriaestimada": "20,00%",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "",
+    "ndicedediscriminacin": "28,31%",
+    "eficienciadiscriminativa": "41,30%"
+},{
+    "q": "45.8",
+    "tipodepregunta": "Opción múltiple",
+    "nombredelapregunta": "Esp2",
+    "intentos": "87",
+    "ndicedefacilidad": "59,77%",
+    "desviacinestndar": "49,32%",
+    "calificacinaleatoriaestimada": "20,00%",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "",
+    "ndicedediscriminacin": "38,03%",
+    "eficienciadiscriminativa": "46,89%"
+},{
+    "q": "45.9",
+    "tipodepregunta": "Opción múltiple",
+    "nombredelapregunta": "Abs1",
+    "intentos": "86",
+    "ndicedefacilidad": "91,86%",
+    "desviacinestndar": "27,50%",
+    "calificacinaleatoriaestimada": "20,00%",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "",
+    "ndicedediscriminacin": "4,39%",
+    "eficienciadiscriminativa": "7,84%"
+},{
+    "q": "45.10",
+    "tipodepregunta": "Opción múltiple",
+    "nombredelapregunta": "Abs2",
+    "intentos": "88",
+    "ndicedefacilidad": "62,50%",
+    "desviacinestndar": "48,69%",
+    "calificacinaleatoriaestimada": "20,00%",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "",
+    "ndicedediscriminacin": "48,89%",
+    "eficienciadiscriminativa": "60,74%"
+},{
+    "q": "45.11",
+    "tipodepregunta": "Opción múltiple",
+    "nombredelapregunta": "Biomarcador",
+    "intentos": "89",
+    "ndicedefacilidad": "38,20%",
+    "desviacinestndar": "48,86%",
+    "calificacinaleatoriaestimada": "20,00%",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "",
+    "ndicedediscriminacin": "45,02%",
+    "eficienciadiscriminativa": "57,35%"
+},{
+    "q": "45.12",
+    "tipodepregunta": "Opción múltiple",
+    "nombredelapregunta": "Treponema",
+    "intentos": "87",
+    "ndicedefacilidad": "10,34%",
+    "desviacinestndar": "30,63%",
+    "calificacinaleatoriaestimada": "20,00%",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "",
+    "ndicedediscriminacin": "25,88%",
+    "eficienciadiscriminativa": "46,79%"
+},{
+    "q": "45.13",
+    "tipodepregunta": "Opción múltiple",
+    "nombredelapregunta": "Cambios mínimos",
+    "intentos": "87",
+    "ndicedefacilidad": "21,84%",
+    "desviacinestndar": "41,55%",
+    "calificacinaleatoriaestimada": "20,00%",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "",
+    "ndicedediscriminacin": "25,92%",
+    "eficienciadiscriminativa": "37,42%"
+},{
+    "q": "45.14",
+    "tipodepregunta": "Opción múltiple",
+    "nombredelapregunta": "Síndrome nefrótico",
+    "intentos": "87",
+    "ndicedefacilidad": "59,77%",
+    "desviacinestndar": "49,32%",
+    "calificacinaleatoriaestimada": "20,00%",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "",
+    "ndicedediscriminacin": "32,80%",
+    "eficienciadiscriminativa": "39,99%"
+},{
+    "q": "45.15",
+    "tipodepregunta": "Opción múltiple",
+    "nombredelapregunta": "Region FC",
+    "intentos": "87",
+    "ndicedefacilidad": "32,18%",
+    "desviacinestndar": "46,99%",
+    "calificacinaleatoriaestimada": "20,00%",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "",
+    "ndicedediscriminacin": "33,77%",
+    "eficienciadiscriminativa": "44,26%"
+},{
+    "q": "45.16",
+    "tipodepregunta": "Opción múltiple",
+    "nombredelapregunta": "COVID",
+    "intentos": "88",
+    "ndicedefacilidad": "56,82%",
+    "desviacinestndar": "49,82%",
+    "calificacinaleatoriaestimada": "20,00%",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "",
+    "ndicedediscriminacin": "33,20%",
+    "eficienciadiscriminativa": "40,20%"
+},{
+    "q": "45.17",
+    "tipodepregunta": "Opción múltiple",
+    "nombredelapregunta": "histo venas",
+    "intentos": "86",
+    "ndicedefacilidad": "36,05%",
+    "desviacinestndar": "48,30%",
+    "calificacinaleatoriaestimada": "25,00%",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "",
+    "ndicedediscriminacin": "36,39%",
+    "eficienciadiscriminativa": "46,78%"
+},{
+    "q": "45.18",
+    "tipodepregunta": "Opción múltiple",
+    "nombredelapregunta": "histo retina",
+    "intentos": "89",
+    "ndicedefacilidad": "61,80%",
+    "desviacinestndar": "48,86%",
+    "calificacinaleatoriaestimada": "25,00%",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "",
+    "ndicedediscriminacin": "50,26%",
+    "eficienciadiscriminativa": "62,21%"
+},{
+    "q": "45.19",
+    "tipodepregunta": "Opción múltiple",
+    "nombredelapregunta": "histo órgano de corti",
+    "intentos": "86",
+    "ndicedefacilidad": "59,30%",
+    "desviacinestndar": "49,42%",
+    "calificacinaleatoriaestimada": "25,00%",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "",
+    "ndicedediscriminacin": "29,84%",
+    "eficienciadiscriminativa": "36,66%"
+},{
+    "q": "45.20",
+    "tipodepregunta": "Opción múltiple",
+    "nombredelapregunta": "Urea",
+    "intentos": "87",
+    "ndicedefacilidad": "67,82%",
+    "desviacinestndar": "46,99%",
+    "calificacinaleatoriaestimada": "20,00%",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "",
+    "ndicedediscriminacin": "18,58%",
+    "eficienciadiscriminativa": "23,76%"
+},{
+    "q": "45.21",
+    "tipodepregunta": "Opción múltiple",
+    "nombredelapregunta": "contracorriente",
+    "intentos": "83",
+    "ndicedefacilidad": "42,17%",
+    "desviacinestndar": "49,68%",
+    "calificacinaleatoriaestimada": "20,00%",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "",
+    "ndicedediscriminacin": "7,80%",
+    "eficienciadiscriminativa": "9,59%"
+},{
+    "q": "45.22",
+    "tipodepregunta": "Opción múltiple",
+    "nombredelapregunta": "transducción",
+    "intentos": "85",
+    "ndicedefacilidad": "48,24%",
+    "desviacinestndar": "50,27%",
+    "calificacinaleatoriaestimada": "20,00%",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "",
+    "ndicedediscriminacin": "54,03%",
+    "eficienciadiscriminativa": "65,84%"
+},{
+    "q": "45.23",
+    "tipodepregunta": "Opción múltiple",
+    "nombredelapregunta": "acomodación",
+    "intentos": "88",
+    "ndicedefacilidad": "54,55%",
+    "desviacinestndar": "50,08%",
+    "calificacinaleatoriaestimada": "20,00%",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "",
+    "ndicedediscriminacin": "27,80%",
+    "eficienciadiscriminativa": "33,60%"
+},{
+    "q": "45.24",
+    "tipodepregunta": "Opción múltiple",
+    "nombredelapregunta": "arteriola histo",
+    "intentos": "87",
+    "ndicedefacilidad": "90,80%",
+    "desviacinestndar": "29,06%",
+    "calificacinaleatoriaestimada": "25,00%",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "",
+    "ndicedediscriminacin": "36,77%",
+    "eficienciadiscriminativa": "64,58%"
+},{
+    "q": "45.25",
+    "tipodepregunta": "Opción múltiple",
+    "nombredelapregunta": "Electrofisiología",
+    "intentos": "89",
+    "ndicedefacilidad": "66,29%",
+    "desviacinestndar": "47,54%",
+    "calificacinaleatoriaestimada": "25,00%",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "",
+    "ndicedediscriminacin": "35,04%",
+    "eficienciadiscriminativa": "44,41%"
+},{
+    "q": "45.26",
+    "tipodepregunta": "Opción múltiple",
+    "nombredelapregunta": "electrofisiologia",
+    "intentos": "88",
+    "ndicedefacilidad": "75,00%",
+    "desviacinestndar": "43,55%",
+    "calificacinaleatoriaestimada": "25,00%",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "",
+    "ndicedediscriminacin": "35,51%",
+    "eficienciadiscriminativa": "47,93%"
+},{
+    "q": "45.27",
+    "tipodepregunta": "Opción múltiple",
+    "nombredelapregunta": "rel V\/Q",
+    "intentos": "86",
+    "ndicedefacilidad": "51,16%",
+    "desviacinestndar": "50,28%",
+    "calificacinaleatoriaestimada": "25,00%",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "",
+    "ndicedediscriminacin": "49,22%",
+    "eficienciadiscriminativa": "59,58%"
+},{
+    "q": "45.28",
+    "tipodepregunta": "Opción múltiple",
+    "nombredelapregunta": "Rel V\/Q",
+    "intentos": "89",
+    "ndicedefacilidad": "61,80%",
+    "desviacinestndar": "48,86%",
+    "calificacinaleatoriaestimada": "25,00%",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "",
+    "ndicedediscriminacin": "23,03%",
+    "eficienciadiscriminativa": "28,51%"
+},{
+    "q": "45.29",
+    "tipodepregunta": "Opción múltiple",
+    "nombredelapregunta": "FSR",
+    "intentos": "87",
+    "ndicedefacilidad": "37,93%",
+    "desviacinestndar": "48,80%",
+    "calificacinaleatoriaestimada": "25,00%",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "",
+    "ndicedediscriminacin": "25,43%",
+    "eficienciadiscriminativa": "32,38%"
+},{
+    "q": "45.30",
+    "tipodepregunta": "Opción múltiple",
+    "nombredelapregunta": "FSR",
+    "intentos": "86",
+    "ndicedefacilidad": "67,44%",
+    "desviacinestndar": "47,13%",
+    "calificacinaleatoriaestimada": "25,00%",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "",
+    "ndicedediscriminacin": "1,11%",
+    "eficienciadiscriminativa": "1,41%"
+},{
+    "q": "45.31",
+    "tipodepregunta": "Opción múltiple",
+    "nombredelapregunta": "Audición",
+    "intentos": "86",
+    "ndicedefacilidad": "80,23%",
+    "desviacinestndar": "40,06%",
+    "calificacinaleatoriaestimada": "25,00%",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "",
+    "ndicedediscriminacin": "39,24%",
+    "eficienciadiscriminativa": "56,41%"
+},{
+    "q": "45.32",
+    "tipodepregunta": "Opción múltiple",
+    "nombredelapregunta": "Audición",
+    "intentos": "89",
+    "ndicedefacilidad": "71,91%",
+    "desviacinestndar": "45,20%",
+    "calificacinaleatoriaestimada": "25,00%",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "",
+    "ndicedediscriminacin": "49,20%",
+    "eficienciadiscriminativa": "64,53%"
+},{
+    "q": "45.33",
+    "tipodepregunta": "Opción múltiple",
+    "nombredelapregunta": "duodeno histo",
+    "intentos": "87",
+    "ndicedefacilidad": "87,36%",
+    "desviacinestndar": "33,43%",
+    "calificacinaleatoriaestimada": "20,00%",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "",
+    "ndicedediscriminacin": "15,29%",
+    "eficienciadiscriminativa": "25,06%"
+},{
+    "q": "45.34",
+    "tipodepregunta": "Opción múltiple",
+    "nombredelapregunta": "yeyuno histo",
+    "intentos": "87",
+    "ndicedefacilidad": "85,06%",
+    "desviacinestndar": "35,86%",
+    "calificacinaleatoriaestimada": "33,33%",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "",
+    "ndicedediscriminacin": "33,88%",
+    "eficienciadiscriminativa": "52,90%"
+},{
+    "q": "45.35",
+    "tipodepregunta": "Opción múltiple",
+    "nombredelapregunta": "histo tp oído",
+    "intentos": "88",
+    "ndicedefacilidad": "70,45%",
+    "desviacinestndar": "45,89%",
+    "calificacinaleatoriaestimada": "20,00%",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "",
+    "ndicedediscriminacin": "43,16%",
+    "eficienciadiscriminativa": "55,85%"
+},{
+    "q": "45.36",
+    "tipodepregunta": "Opción múltiple",
+    "nombredelapregunta": "histo tp retina",
+    "intentos": "86",
+    "ndicedefacilidad": "81,40%",
+    "desviacinestndar": "39,14%",
+    "calificacinaleatoriaestimada": "20,00%",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "",
+    "ndicedediscriminacin": "48,07%",
+    "eficienciadiscriminativa": "70,75%"
+},{
+    "q": "45.37",
+    "tipodepregunta": "Opción múltiple",
+    "nombredelapregunta": "histo tp riñón",
+    "intentos": "86",
+    "ndicedefacilidad": "73,26%",
+    "desviacinestndar": "44,52%",
+    "calificacinaleatoriaestimada": "20,00%",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "",
+    "ndicedediscriminacin": "17,11%",
+    "eficienciadiscriminativa": "22,71%"
+},{
+    "q": "45.38",
+    "tipodepregunta": "Opción múltiple",
+    "nombredelapregunta": "histo vía urinaria",
+    "intentos": "87",
+    "ndicedefacilidad": "50,57%",
+    "desviacinestndar": "50,29%",
+    "calificacinaleatoriaestimada": "25,00%",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "",
+    "ndicedediscriminacin": "31,18%",
+    "eficienciadiscriminativa": "38,13%"
+},{
+    "q": "45.39",
+    "tipodepregunta": "Opción múltiple",
+    "nombredelapregunta": "ojo",
+    "intentos": "88",
+    "ndicedefacilidad": "52,27%",
+    "desviacinestndar": "50,23%",
+    "calificacinaleatoriaestimada": "20,00%",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "",
+    "ndicedediscriminacin": "34,74%",
+    "eficienciadiscriminativa": "42,26%"
+},{
+    "q": "45.40",
+    "tipodepregunta": "Opción múltiple",
+    "nombredelapregunta": "Gases arteriales",
+    "intentos": "85",
+    "ndicedefacilidad": "78,82%",
+    "desviacinestndar": "41,10%",
+    "calificacinaleatoriaestimada": "",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "",
+    "ndicedediscriminacin": "39,75%",
+    "eficienciadiscriminativa": "55,70%"
+},{
+    "q": "45.41",
+    "tipodepregunta": "Opción múltiple",
+    "nombredelapregunta": "Gases compensación",
+    "intentos": "86",
+    "ndicedefacilidad": "84,88%",
+    "desviacinestndar": "36,03%",
+    "calificacinaleatoriaestimada": "",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "",
+    "ndicedediscriminacin": "15,78%",
+    "eficienciadiscriminativa": "24,54%"
+},{
+    "q": "45.42",
+    "tipodepregunta": "Opción múltiple",
+    "nombredelapregunta": "Caso gases 1",
+    "intentos": "88",
+    "ndicedefacilidad": "70,45%",
+    "desviacinestndar": "45,89%",
+    "calificacinaleatoriaestimada": "",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "",
+    "ndicedediscriminacin": "40,03%",
+    "eficienciadiscriminativa": "52,12%"
+},{
+    "q": "45.43",
+    "tipodepregunta": "Opción múltiple",
+    "nombredelapregunta": "Alteración respiratoria",
+    "intentos": "89",
+    "ndicedefacilidad": "68,54%",
+    "desviacinestndar": "46,70%",
+    "calificacinaleatoriaestimada": "",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "",
+    "ndicedediscriminacin": "37,60%",
+    "eficienciadiscriminativa": "48,20%"
+},{
+    "q": "45.44",
+    "tipodepregunta": "Opción múltiple",
+    "nombredelapregunta": "Reabsorción glucosa",
+    "intentos": "87",
+    "ndicedefacilidad": "73,56%",
+    "desviacinestndar": "44,36%",
+    "calificacinaleatoriaestimada": "",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "",
+    "ndicedediscriminacin": "26,37%",
+    "eficienciadiscriminativa": "35,41%"
+},{
+    "q": "45.45",
+    "tipodepregunta": "Opción múltiple",
+    "nombredelapregunta": "tasa de filtración",
+    "intentos": "85",
+    "ndicedefacilidad": "10,59%",
+    "desviacinestndar": "30,95%",
+    "calificacinaleatoriaestimada": "",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "",
+    "ndicedediscriminacin": "12,98%",
+    "eficienciadiscriminativa": "23,60%"
+},{
+    "q": "45.46",
+    "tipodepregunta": "Opción múltiple",
+    "nombredelapregunta": "oido cuerda del timpano",
+    "intentos": "85",
+    "ndicedefacilidad": "5,88%",
+    "desviacinestndar": "23,67%",
+    "calificacinaleatoriaestimada": "20,00%",
+    "ponderacindeseada": "2,22%",
+    "pesoefectivo": "",
+    "ndicedediscriminacin": "33,42%",
+    "eficienciadiscriminativa": "75,26%"
+}],[{
+    "respuestamodelo": "Arteria mesentérica superior distal a la emergencia del tronco celíaco   ",
+    "crditoparcial": "100,00%",
+    "nmero": "40",
+    "frecuencia": "45,98%"
+},{
+    "respuestamodelo": "Arteria mesentérica inferior proximal al proceso unciforme del páncreas   ",
+    "crditoparcial": "0,00%",
+    "nmero": "28",
+    "frecuencia": "32,18%"
+},{
+    "respuestamodelo": "Rama pancreaticaduodenal de la arteria mesentérica inferior   ",
+    "crditoparcial": "0,00%",
+    "nmero": "10",
+    "frecuencia": "11,49%"
+},{
+    "respuestamodelo": "Tronco celíaco que irriga a los órganos supramesocólicos   ",
+    "crditoparcial": "0,00%",
+    "nmero": "9",
+    "frecuencia": "10,34%"
+},{
+    "respuestamodelo": "[Sin respuesta]",
+    "crditoparcial": "0,00%",
+    "nmero": "0",
+    "frecuencia": "0,00%"
+}],[{
+    "respuestamodelo": "Yeyuno proximal    ",
+    "crditoparcial": "100,00%",
+    "nmero": "40",
+    "frecuencia": "45,45%"
+},{
+    "respuestamodelo": "Íleon distal   ",
+    "crditoparcial": "0,00%",
+    "nmero": "16",
+    "frecuencia": "18,18%"
+},{
+    "respuestamodelo": "Primera porción del duodeno   ",
+    "crditoparcial": "0,00%",
+    "nmero": "17",
+    "frecuencia": "19,32%"
+},{
+    "respuestamodelo": "Unión ileocecal   ",
+    "crditoparcial": "0,00%",
+    "nmero": "14",
+    "frecuencia": "15,91%"
+},{
+    "respuestamodelo": "[Sin respuesta]",
+    "crditoparcial": "0,00%",
+    "nmero": "1",
+    "frecuencia": "1,14%"
+}],[{
+    "respuestamodelo": "Formación de fibrina por la vía intrínseca      ",
+    "crditoparcial": "0,00%",
+    "nmero": "2",
+    "frecuencia": "2,27%"
+},{
+    "respuestamodelo": "Hemostasia primaria mediada por plaquetas      ",
+    "crditoparcial": "100,00%",
+    "nmero": "69",
+    "frecuencia": "78,41%"
+},{
+    "respuestamodelo": "Activación de la vía extrínseca      ",
+    "crditoparcial": "0,00%",
+    "nmero": "3",
+    "frecuencia": "3,41%"
+},{
+    "respuestamodelo": "Fibrinólisis acelerada      ",
+    "crditoparcial": "0,00%",
+    "nmero": "8",
+    "frecuencia": "9,09%"
+},{
+    "respuestamodelo": "Producción hepática de factores de coagulación   ",
+    "crditoparcial": "0,00%",
+    "nmero": "6",
+    "frecuencia": "6,82%"
+},{
+    "respuestamodelo": "[Sin respuesta]",
+    "crditoparcial": "0,00%",
+    "nmero": "0",
+    "frecuencia": "0,00%"
+}],[{
+    "respuestamodelo": "Disminución del número de plaquetas   ",
+    "crditoparcial": "0,00%",
+    "nmero": "2",
+    "frecuencia": "2,25%"
+},{
+    "respuestamodelo": "Déficit del factor VIII o IX de la vía intrínseca    ",
+    "crditoparcial": "100,00%",
+    "nmero": "66",
+    "frecuencia": "74,16%"
+},{
+    "respuestamodelo": "Alteración del fibrinógeno   ",
+    "crditoparcial": "0,00%",
+    "nmero": "6",
+    "frecuencia": "6,74%"
+},{
+    "respuestamodelo": "Activación excesiva de la fibrinólisis   ",
+    "crditoparcial": "0,00%",
+    "nmero": "2",
+    "frecuencia": "2,25%"
+},{
+    "respuestamodelo": "Déficit de vitamina K   ",
+    "crditoparcial": "0,00%",
+    "nmero": "13",
+    "frecuencia": "14,61%"
+},{
+    "respuestamodelo": "[Sin respuesta]",
+    "crditoparcial": "0,00%",
+    "nmero": "0",
+    "frecuencia": "0,00%"
+}],[{
+    "respuestamodelo": "Disminución de la resistencia vascular sistémica      ",
+    "crditoparcial": "100,00%",
+    "nmero": "62",
+    "frecuencia": "69,66%"
+},{
+    "respuestamodelo": "Aumento del flujo cutáneo basal   ",
+    "crditoparcial": "0,00%",
+    "nmero": "15",
+    "frecuencia": "16,85%"
+},{
+    "respuestamodelo": "Disminución del consumo muscular de oxígeno   ",
+    "crditoparcial": "0,00%",
+    "nmero": "6",
+    "frecuencia": "6,74%"
+},{
+    "respuestamodelo": "Aumento de la presión intracraneana   ",
+    "crditoparcial": "0,00%",
+    "nmero": "2",
+    "frecuencia": "2,25%"
+},{
+    "respuestamodelo": "Disminución del retorno venoso   ",
+    "crditoparcial": "0,00%",
+    "nmero": "4",
+    "frecuencia": "4,49%"
+},{
+    "respuestamodelo": "[Sin respuesta]",
+    "crditoparcial": "0,00%",
+    "nmero": "0",
+    "frecuencia": "0,00%"
+}],[{
+    "respuestamodelo": "Disminución del hematocrito   ",
+    "crditoparcial": "0,00%",
+    "nmero": "1",
+    "frecuencia": "1,16%"
+},{
+    "respuestamodelo": "Liberación de hematíes almacenados al torrente sanguíneo    ",
+    "crditoparcial": "100,00%",
+    "nmero": "53",
+    "frecuencia": "61,63%"
+},{
+    "respuestamodelo": "Aumento del flujo hepático   ",
+    "crditoparcial": "0,00%",
+    "nmero": "14",
+    "frecuencia": "16,28%"
+},{
+    "respuestamodelo": "Reducción del volumen plasmático   ",
+    "crditoparcial": "0,00%",
+    "nmero": "5",
+    "frecuencia": "5,81%"
+},{
+    "respuestamodelo": "Disminución del gasto cardiaco   ",
+    "crditoparcial": "0,00%",
+    "nmero": "13",
+    "frecuencia": "15,12%"
+},{
+    "respuestamodelo": "[Sin respuesta]",
+    "crditoparcial": "0,00%",
+    "nmero": "0",
+    "frecuencia": "0,00%"
+}],[{
+    "respuestamodelo": "Patrón restrictivo leve   ",
+    "crditoparcial": "0,00%",
+    "nmero": "13",
+    "frecuencia": "14,94%"
+},{
+    "respuestamodelo": "Espirometría normal   ",
+    "crditoparcial": "0,00%",
+    "nmero": "0",
+    "frecuencia": "0,00%"
+},{
+    "respuestamodelo": "Patrón obstructivo    ",
+    "crditoparcial": "100,00%",
+    "nmero": "71",
+    "frecuencia": "81,61%"
+},{
+    "respuestamodelo": "Patrón mixto   ",
+    "crditoparcial": "0,00%",
+    "nmero": "3",
+    "frecuencia": "3,45%"
+},{
+    "respuestamodelo": "Hiperventilación funcional   ",
+    "crditoparcial": "0,00%",
+    "nmero": "0",
+    "frecuencia": "0,00%"
+},{
+    "respuestamodelo": "[Sin respuesta]",
+    "crditoparcial": "0,00%",
+    "nmero": "0",
+    "frecuencia": "0,00%"
+}],[{
+    "respuestamodelo": "Espirometría normal   ",
+    "crditoparcial": "0,00%",
+    "nmero": "6",
+    "frecuencia": "6,90%"
+},{
+    "respuestamodelo": "Patrón obstructivo leve   ",
+    "crditoparcial": "0,00%",
+    "nmero": "20",
+    "frecuencia": "22,99%"
+},{
+    "respuestamodelo": "Patrón restrictivo   ",
+    "crditoparcial": "100,00%",
+    "nmero": "52",
+    "frecuencia": "59,77%"
+},{
+    "respuestamodelo": "Patrón mixto   ",
+    "crditoparcial": "0,00%",
+    "nmero": "6",
+    "frecuencia": "6,90%"
+},{
+    "respuestamodelo": "Error técnico en la prueba   ",
+    "crditoparcial": "0,00%",
+    "nmero": "3",
+    "frecuencia": "3,45%"
+},{
+    "respuestamodelo": "[Sin respuesta]",
+    "crditoparcial": "0,00%",
+    "nmero": "0",
+    "frecuencia": "0,00%"
+}],[{
+    "respuestamodelo": " Aumento de la secreción activa de cloro   ",
+    "crditoparcial": "0,00%",
+    "nmero": "6",
+    "frecuencia": "6,98%"
+},{
+    "respuestamodelo": " Presencia de solutos no absorbidos que generan diarrea osmótica   ",
+    "crditoparcial": "100,00%",
+    "nmero": "79",
+    "frecuencia": "91,86%"
+},{
+    "respuestamodelo": " Destrucción inflamatoria del epitelio intestinal   ",
+    "crditoparcial": "0,00%",
+    "nmero": "0",
+    "frecuencia": "0,00%"
+},{
+    "respuestamodelo": " Aceleración del tránsito intestinal   ",
+    "crditoparcial": "0,00%",
+    "nmero": "1",
+    "frecuencia": "1,16%"
+},{
+    "respuestamodelo": " Activación del sistema nervioso entérico   ",
+    "crditoparcial": "0,00%",
+    "nmero": "0",
+    "frecuencia": "0,00%"
+},{
+    "respuestamodelo": "[Sin respuesta]",
+    "crditoparcial": "0,00%",
+    "nmero": "0",
+    "frecuencia": "0,00%"
+}],[{
+    "respuestamodelo": "Duodeno   ",
+    "crditoparcial": "0,00%",
+    "nmero": "7",
+    "frecuencia": "7,95%"
+},{
+    "respuestamodelo": "Yeyuno proximal   ",
+    "crditoparcial": "0,00%",
+    "nmero": "19",
+    "frecuencia": "21,59%"
+},{
+    "respuestamodelo": "ÍLEON TERMINAL   ",
+    "crditoparcial": "100,00%",
+    "nmero": "55",
+    "frecuencia": "62,50%"
+},{
+    "respuestamodelo": "Colon transverso   ",
+    "crditoparcial": "0,00%",
+    "nmero": "1",
+    "frecuencia": "1,14%"
+},{
+    "respuestamodelo": "Estómago   ",
+    "crditoparcial": "0,00%",
+    "nmero": "6",
+    "frecuencia": "6,82%"
+},{
+    "respuestamodelo": "[Sin respuesta]",
+    "crditoparcial": "0,00%",
+    "nmero": "0",
+    "frecuencia": "0,00%"
+}],[{
+    "respuestamodelo": "PCR      ",
+    "crditoparcial": "0,00%",
+    "nmero": "20",
+    "frecuencia": "22,47%"
+},{
+    "respuestamodelo": "IL-2      ",
+    "crditoparcial": "0,00%",
+    "nmero": "12",
+    "frecuencia": "13,48%"
+},{
+    "respuestamodelo": "suPAR      ",
+    "crditoparcial": "100,00%",
+    "nmero": "34",
+    "frecuencia": "38,20%"
+},{
+    "respuestamodelo": "IgE   ",
+    "crditoparcial": "0,00%",
+    "nmero": "7",
+    "frecuencia": "7,87%"
+},{
+    "respuestamodelo": "Complejos inmunes   ",
+    "crditoparcial": "0,00%",
+    "nmero": "16",
+    "frecuencia": "17,98%"
+},{
+    "respuestamodelo": "[Sin respuesta]",
+    "crditoparcial": "0,00%",
+    "nmero": "0",
+    "frecuencia": "0,00%"
+}],[{
+    "respuestamodelo": "Anticuerpos específicos contra _Treponema pallidum_      ",
+    "crditoparcial": "0,00%",
+    "nmero": "57",
+    "frecuencia": "65,52%"
+},{
+    "respuestamodelo": "Antígenos treponémicos lipídicos      ",
+    "crditoparcial": "0,00%",
+    "nmero": "12",
+    "frecuencia": "13,79%"
+},{
+    "respuestamodelo": "Reaginas dirigidas contra lípidos tisulares dañados      ",
+    "crditoparcial": "100,00%",
+    "nmero": "9",
+    "frecuencia": "10,34%"
+},{
+    "respuestamodelo": "Inmunoglobulinas IgE contra lipopolisacáridos      ",
+    "crditoparcial": "0,00%",
+    "nmero": "6",
+    "frecuencia": "6,90%"
+},{
+    "respuestamodelo": "ADN bacteriano mediante hibridación   ",
+    "crditoparcial": "0,00%",
+    "nmero": "3",
+    "frecuencia": "3,45%"
+},{
+    "respuestamodelo": "[Sin respuesta]",
+    "crditoparcial": "0,00%",
+    "nmero": "0",
+    "frecuencia": "0,00%"
+}],[{
+    "respuestamodelo": "Depósito de inmunocomplejos      ",
+    "crditoparcial": "0,00%",
+    "nmero": "19",
+    "frecuencia": "21,84%"
+},{
+    "respuestamodelo": "Activación del complemento      ",
+    "crditoparcial": "0,00%",
+    "nmero": "19",
+    "frecuencia": "21,84%"
+},{
+    "respuestamodelo": "Disregulación de células T      ",
+    "crditoparcial": "100,00%",
+    "nmero": "19",
+    "frecuencia": "21,84%"
+},{
+    "respuestamodelo": "Autoanticuerpos anti-podocito   ",
+    "crditoparcial": "0,00%",
+    "nmero": "19",
+    "frecuencia": "21,84%"
+},{
+    "respuestamodelo": "Netosis clásica   ",
+    "crditoparcial": "0,00%",
+    "nmero": "9",
+    "frecuencia": "10,34%"
+},{
+    "respuestamodelo": "[Sin respuesta]",
+    "crditoparcial": "0,00%",
+    "nmero": "2",
+    "frecuencia": "2,30%"
+}],[{
+    "respuestamodelo": "Aumento de albúmina      ",
+    "crditoparcial": "0,00%",
+    "nmero": "30",
+    "frecuencia": "34,48%"
+},{
+    "respuestamodelo": "Pico monoclonal      ",
+    "crditoparcial": "0,00%",
+    "nmero": "2",
+    "frecuencia": "2,30%"
+},{
+    "respuestamodelo": "Disminución de albúmina y aumento de alfa-2      ",
+    "crditoparcial": "100,00%",
+    "nmero": "52",
+    "frecuencia": "59,77%"
+},{
+    "respuestamodelo": "Aumento policlonal gamma      ",
+    "crditoparcial": "0,00%",
+    "nmero": "3",
+    "frecuencia": "3,45%"
+},{
+    "respuestamodelo": "Patrón normal   ",
+    "crditoparcial": "0,00%",
+    "nmero": "0",
+    "frecuencia": "0,00%"
+},{
+    "respuestamodelo": "[Sin respuesta]",
+    "crditoparcial": "0,00%",
+    "nmero": "0",
+    "frecuencia": "0,00%"
+}],[{
+    "respuestamodelo": "Unión específica al antígeno      ",
+    "crditoparcial": "0,00%",
+    "nmero": "24",
+    "frecuencia": "27,59%"
+},{
+    "respuestamodelo": "Reconocimiento por receptores celulares y complemento      ",
+    "crditoparcial": "100,00%",
+    "nmero": "28",
+    "frecuencia": "32,18%"
+},{
+    "respuestamodelo": "Variabilidad antigénica      ",
+    "crditoparcial": "0,00%",
+    "nmero": "17",
+    "frecuencia": "19,54%"
+},{
+    "respuestamodelo": "Mutación somática      ",
+    "crditoparcial": "0,00%",
+    "nmero": "5",
+    "frecuencia": "5,75%"
+},{
+    "respuestamodelo": "Recombinación V(D)J   ",
+    "crditoparcial": "0,00%",
+    "nmero": "13",
+    "frecuencia": "14,94%"
+},{
+    "respuestamodelo": "[Sin respuesta]",
+    "crditoparcial": "0,00%",
+    "nmero": "0",
+    "frecuencia": "0,00%"
+}],[{
+    "respuestamodelo": "La PCR detecta proteína viral      ",
+    "crditoparcial": "0,00%",
+    "nmero": "14",
+    "frecuencia": "15,91%"
+},{
+    "respuestamodelo": "La PCR amplifica RNA viral y tiene mayor sensibilidad      ",
+    "crditoparcial": "100,00%",
+    "nmero": "50",
+    "frecuencia": "56,82%"
+},{
+    "respuestamodelo": "El antígeno detecta anticuerpos      ",
+    "crditoparcial": "0,00%",
+    "nmero": "9",
+    "frecuencia": "10,23%"
+},{
+    "respuestamodelo": "La PCR es menos específica      ",
+    "crditoparcial": "0,00%",
+    "nmero": "12",
+    "frecuencia": "13,64%"
+},{
+    "respuestamodelo": "El antígeno detecta DNA viral   ",
+    "crditoparcial": "0,00%",
+    "nmero": "3",
+    "frecuencia": "3,41%"
+},{
+    "respuestamodelo": "[Sin respuesta]",
+    "crditoparcial": "0,00%",
+    "nmero": "0",
+    "frecuencia": "0,00%"
+}],[{
+    "respuestamodelo": "Proyecciones de la túnica adventicia ricas en músculo liso   ",
+    "crditoparcial": "0,00%",
+    "nmero": "20",
+    "frecuencia": "23,26%"
+},{
+    "respuestamodelo": "Pliegues de la túnica íntima recubiertos por endotelio   ",
+    "crditoparcial": "100,00%",
+    "nmero": "31",
+    "frecuencia": "36,05%"
+},{
+    "respuestamodelo": "Engrosamientos de la túnica media con fibras elásticas   ",
+    "crditoparcial": "0,00%",
+    "nmero": "24",
+    "frecuencia": "27,91%"
+},{
+    "respuestamodelo": "Regiones de endotelio fenestrado para intercambio rápido   ",
+    "crditoparcial": "0,00%",
+    "nmero": "11",
+    "frecuencia": "12,79%"
+},{
+    "respuestamodelo": "[Sin respuesta]",
+    "crditoparcial": "0,00%",
+    "nmero": "0",
+    "frecuencia": "0,00%"
+}],[{
+    "respuestamodelo": "Convertir las ondas de luz en señales eléctricas   ",
+    "crditoparcial": "0,00%",
+    "nmero": "15",
+    "frecuencia": "16,85%"
+},{
+    "respuestamodelo": "Generar los axones que forman el nervio óptico   ",
+    "crditoparcial": "100,00%",
+    "nmero": "55",
+    "frecuencia": "61,80%"
+},{
+    "respuestamodelo": "Mantener la barrera hematorretiniana   ",
+    "crditoparcial": "0,00%",
+    "nmero": "1",
+    "frecuencia": "1,12%"
+},{
+    "respuestamodelo": "Integrar señales de bastones y conos mediante interneuronas   ",
+    "crditoparcial": "0,00%",
+    "nmero": "18",
+    "frecuencia": "20,22%"
+},{
+    "respuestamodelo": "[Sin respuesta]",
+    "crditoparcial": "0,00%",
+    "nmero": "0",
+    "frecuencia": "0,00%"
+}],[{
+    "respuestamodelo": "Transmisión del impulso al nervio vestibular   ",
+    "crditoparcial": "0,00%",
+    "nmero": "15",
+    "frecuencia": "17,44%"
+},{
+    "respuestamodelo": "Producción de endolinfa   ",
+    "crditoparcial": "0,00%",
+    "nmero": "3",
+    "frecuencia": "3,49%"
+},{
+    "respuestamodelo": "Amplificación mecánica de las vibraciones sonoras   ",
+    "crditoparcial": "100,00%",
+    "nmero": "51",
+    "frecuencia": "59,30%"
+},{
+    "respuestamodelo": "Fijación de la membrana tectorial   ",
+    "crditoparcial": "0,00%",
+    "nmero": "17",
+    "frecuencia": "19,77%"
+},{
+    "respuestamodelo": "[Sin respuesta]",
+    "crditoparcial": "0,00%",
+    "nmero": "0",
+    "frecuencia": "0,00%"
+}],[{
+    "respuestamodelo": "Aldosterona   ",
+    "crditoparcial": "0,00%",
+    "nmero": "14",
+    "frecuencia": "16,09%"
+},{
+    "respuestamodelo": "Péptido atrial natriurético   ",
+    "crditoparcial": "0,00%",
+    "nmero": "7",
+    "frecuencia": "8,05%"
+},{
+    "respuestamodelo": "Hormona antidiurética (ADH)    ",
+    "crditoparcial": "100,00%",
+    "nmero": "59",
+    "frecuencia": "67,82%"
+},{
+    "respuestamodelo": "Renina   ",
+    "crditoparcial": "0,00%",
+    "nmero": "5",
+    "frecuencia": "5,75%"
+},{
+    "respuestamodelo": "Angiotensina II   ",
+    "crditoparcial": "0,00%",
+    "nmero": "2",
+    "frecuencia": "2,30%"
+},{
+    "respuestamodelo": "[Sin respuesta]",
+    "crditoparcial": "0,00%",
+    "nmero": "0",
+    "frecuencia": "0,00%"
+}],[{
+    "respuestamodelo": "Aumento de la permeabilidad al agua en la rama ascendente gruesa   ",
+    "crditoparcial": "0,00%",
+    "nmero": "18",
+    "frecuencia": "21,69%"
+},{
+    "respuestamodelo": "Disminución de la permeabilidad al agua en la rama descendente del asa   ",
+    "crditoparcial": "0,00%",
+    "nmero": "16",
+    "frecuencia": "19,28%"
+},{
+    "respuestamodelo": "Disminución del transporte activo de NaCl en un segmento impermeable al agua    ",
+    "crditoparcial": "100,00%",
+    "nmero": "35",
+    "frecuencia": "42,17%"
+},{
+    "respuestamodelo": "Aumento de la permeabilidad a solutos en la rama descendente   ",
+    "crditoparcial": "0,00%",
+    "nmero": "7",
+    "frecuencia": "8,43%"
+},{
+    "respuestamodelo": "Disminución de la permeabilidad al agua en el túbulo colector medular   ",
+    "crditoparcial": "0,00%",
+    "nmero": "7",
+    "frecuencia": "8,43%"
+},{
+    "respuestamodelo": "[Sin respuesta]",
+    "crditoparcial": "0,00%",
+    "nmero": "0",
+    "frecuencia": "0,00%"
+}],[{
+    "respuestamodelo": "Cierre de canales de Na⁺ dependientes de GMPc   ",
+    "crditoparcial": "0,00%",
+    "nmero": "17",
+    "frecuencia": "20,00%"
+},{
+    "respuestamodelo": "Hiperpolarización exagerada del fotorreceptor   ",
+    "crditoparcial": "0,00%",
+    "nmero": "20",
+    "frecuencia": "23,53%"
+},{
+    "respuestamodelo": "Mantenimiento de GMPc elevado y despolarización persistente    ",
+    "crditoparcial": "100,00%",
+    "nmero": "41",
+    "frecuencia": "48,24%"
+},{
+    "respuestamodelo": "Disminución de la liberación de glutamato   ",
+    "crditoparcial": "0,00%",
+    "nmero": "7",
+    "frecuencia": "8,24%"
+},{
+    "respuestamodelo": "Activación directa de células bipolares   ",
+    "crditoparcial": "0,00%",
+    "nmero": "0",
+    "frecuencia": "0,00%"
+},{
+    "respuestamodelo": "[Sin respuesta]",
+    "crditoparcial": "0,00%",
+    "nmero": "0",
+    "frecuencia": "0,00%"
+}],[{
+    "respuestamodelo": "Contracción músculo ciliar → tensión zonular disminuida → cristalino más convexo   ",
+    "crditoparcial": "0,00%",
+    "nmero": "14",
+    "frecuencia": "15,91%"
+},{
+    "respuestamodelo": "Relajación músculo ciliar → tensión zonular disminuida → cristalino más convexo   ",
+    "crditoparcial": "0,00%",
+    "nmero": "17",
+    "frecuencia": "19,32%"
+},{
+    "respuestamodelo": "Relajación músculo ciliar → tensión zonular aumentada → cristalino más plano   ",
+    "crditoparcial": "100,00%",
+    "nmero": "48",
+    "frecuencia": "54,55%"
+},{
+    "respuestamodelo": "Contracción músculo ciliar → tensión zonular aumentada → cristalino plano   ",
+    "crditoparcial": "0,00%",
+    "nmero": "8",
+    "frecuencia": "9,09%"
+},{
+    "respuestamodelo": "Contracción pupilar → tensión zonular disminuida → cristalino convexo   ",
+    "crditoparcial": "0,00%",
+    "nmero": "1",
+    "frecuencia": "1,14%"
+},{
+    "respuestamodelo": "[Sin respuesta]",
+    "crditoparcial": "0,00%",
+    "nmero": "0",
+    "frecuencia": "0,00%"
+}],[{
+    "respuestamodelo": "Presencia de válvulas en la túnica íntima   ",
+    "crditoparcial": "0,00%",
+    "nmero": "2",
+    "frecuencia": "2,30%"
+},{
+    "respuestamodelo": "Abundantes fibras elásticas en la túnica media   ",
+    "crditoparcial": "0,00%",
+    "nmero": "3",
+    "frecuencia": "3,45%"
+},{
+    "respuestamodelo": "Dos a cinco capas concéntricas de músculo liso en la túnica media   ",
+    "crditoparcial": "100,00%",
+    "nmero": "79",
+    "frecuencia": "90,80%"
+},{
+    "respuestamodelo": "Túnica adventicia más gruesa que la túnica media   ",
+    "crditoparcial": "0,00%",
+    "nmero": "3",
+    "frecuencia": "3,45%"
+},{
+    "respuestamodelo": "[Sin respuesta]",
+    "crditoparcial": "0,00%",
+    "nmero": "0",
+    "frecuencia": "0,00%"
+}],[{
+    "respuestamodelo": "↑ pendiente de fase 4 por ↑ corriente If mediada por ↑cAMP tras activación β1       ",
+    "crditoparcial": "100,00%",
+    "nmero": "59",
+    "frecuencia": "66,29%"
+},{
+    "respuestamodelo": "↓ pendiente de fase 4 por ↑ salida de K⁺ y mayor hiperpolarización diastólica máxima   ",
+    "crditoparcial": "0,00%",
+    "nmero": "11",
+    "frecuencia": "12,36%"
+},{
+    "respuestamodelo": "↓ amplitud del potencial de acción por bloqueo de canales de Ca²⁺ tipo L en fase 0   ",
+    "crditoparcial": "0,00%",
+    "nmero": "4",
+    "frecuencia": "4,49%"
+},{
+    "respuestamodelo": "↑ duración del potencial de acción por ↑ corriente de Na⁺ rápida durante fase 0   ",
+    "crditoparcial": "0,00%",
+    "nmero": "15",
+    "frecuencia": "16,85%"
+},{
+    "respuestamodelo": "[Sin respuesta]",
+    "crditoparcial": "0,00%",
+    "nmero": "0",
+    "frecuencia": "0,00%"
+}],[{
+    "respuestamodelo": " ↑ duración del potencial de acción (fase 3) por bloqueo de canales de K⁺ → ↑ periodo refractario efectivo       ",
+    "crditoparcial": "100,00%",
+    "nmero": "66",
+    "frecuencia": "75,00%"
+},{
+    "respuestamodelo": "↑ pendiente de fase 4 por ↑ corriente If mediada por ↑cAMP en el nodo SA   ",
+    "crditoparcial": "0,00%",
+    "nmero": "13",
+    "frecuencia": "14,77%"
+},{
+    "respuestamodelo": "↑ velocidad de fase 0 por facilitación de canales de Na⁺ rápidos en fibras auriculares y ventriculares       ",
+    "crditoparcial": "0,00%",
+    "nmero": "3",
+    "frecuencia": "3,41%"
+},{
+    "respuestamodelo": "Acorta el potencial de acción por apertura de canales de K⁺ con disminución del QT    ",
+    "crditoparcial": "0,00%",
+    "nmero": "5",
+    "frecuencia": "5,68%"
+},{
+    "respuestamodelo": "[Sin respuesta]",
+    "crditoparcial": "0,00%",
+    "nmero": "1",
+    "frecuencia": "1,14%"
+}],[{
+    "respuestamodelo": " V\/Q muy alta (tiende a ∞) por ventilación conservada con perfusión casi ausente (espacio muerto alveolar)       ",
+    "crditoparcial": "100,00%",
+    "nmero": "44",
+    "frecuencia": "51,16%"
+},{
+    "respuestamodelo": "V\/Q muy baja (tiende a 0) por perfusión conservada con ventilación casi ausente (cortocircuito)       ",
+    "crditoparcial": "0,00%",
+    "nmero": "15",
+    "frecuencia": "17,44%"
+},{
+    "respuestamodelo": "V\/Q cercana a 1 por disminución proporcional de ventilación y perfusión en la misma región       ",
+    "crditoparcial": "0,00%",
+    "nmero": "25",
+    "frecuencia": "29,07%"
+},{
+    "respuestamodelo": " V\/Q globalmente normal porque la hipoxemia se corrige por completo con hiperventilación refleja   ",
+    "crditoparcial": "0,00%",
+    "nmero": "1",
+    "frecuencia": "1,16%"
+},{
+    "respuestamodelo": "[Sin respuesta]",
+    "crditoparcial": "0,00%",
+    "nmero": "1",
+    "frecuencia": "1,16%"
+}],[{
+    "respuestamodelo": "≈ 58 mmHg, porque 0.21×(560−47) − (40\/0.8) da un valor cercano a 58       ",
+    "crditoparcial": "100,00%",
+    "nmero": "55",
+    "frecuencia": "61,80%"
+},{
+    "respuestamodelo": " ≈ 108 mmHg, porque 0.21×(560−47) produce el valor final sin corrección por CO₂   ",
+    "crditoparcial": "0,00%",
+    "nmero": "25",
+    "frecuencia": "28,09%"
+},{
+    "respuestamodelo": "≈ 50 mmHg, porque se resta PaCO₂ sin dividirla por R en la ecuación alveolar       ",
+    "crditoparcial": "0,00%",
+    "nmero": "1",
+    "frecuencia": "1,12%"
+},{
+    "respuestamodelo": "≈ 150 mmHg, porque a menor presión atmosférica aumenta la presión parcial inspirada de oxígeno   ",
+    "crditoparcial": "0,00%",
+    "nmero": "8",
+    "frecuencia": "8,99%"
+},{
+    "respuestamodelo": "[Sin respuesta]",
+    "crditoparcial": "0,00%",
+    "nmero": "0",
+    "frecuencia": "0,00%"
+}],[{
+    "respuestamodelo": "Vasodilatación de la arteriola aferente por respuesta miogénica y mediadores locales → mantiene la presión hidrostática capilar glomerular   ",
+    "crditoparcial": "100,00%",
+    "nmero": "33",
+    "frecuencia": "37,93%"
+},{
+    "respuestamodelo": "Vasoconstricción de la arteriola eferente por bloqueo de angiotensina dos → aumenta la tasa de filtración glomerular y el flujo sanguíneo renal al mismo tiempo       ",
+    "crditoparcial": "0,00%",
+    "nmero": "36",
+    "frecuencia": "41,38%"
+},{
+    "respuestamodelo": "Vasoconstricción intensa de la arteriola aferente por aumento de óxido nítrico → aumenta el flujo sanguíneo renal y aumenta la tasa de filtración glomerular       ",
+    "crditoparcial": "0,00%",
+    "nmero": "13",
+    "frecuencia": "14,94%"
+},{
+    "respuestamodelo": "Vasodilatación de la arteriola eferente por activación simpática alfa uno → mantiene la fracción de filtración   ",
+    "crditoparcial": "0,00%",
+    "nmero": "5",
+    "frecuencia": "5,75%"
+},{
+    "respuestamodelo": "[Sin respuesta]",
+    "crditoparcial": "0,00%",
+    "nmero": "0",
+    "frecuencia": "0,00%"
+}],[{
+    "respuestamodelo": "Aumento de la resistencia vascular renal por vasoconstricción (predominio en arteriola aferente) → disminución del flujo sanguíneo renal y disminución de la tasa de filtración glomerular para conservar volumen       ",
+    "crditoparcial": "100,00%",
+    "nmero": "58",
+    "frecuencia": "67,44%"
+},{
+    "respuestamodelo": "Disminución de la resistencia vascular renal por vasodilatación generalizada → aumento del flujo sanguíneo renal y aumento de la tasa de filtración glomerular para eliminar metabolitos del choque       ",
+    "crditoparcial": "0,00%",
+    "nmero": "19",
+    "frecuencia": "22,09%"
+},{
+    "respuestamodelo": "Aumento del flujo sanguíneo renal por incremento reflejo del gasto cardiaco → aumento de la tasa de filtración glomerular a pesar de la hipotensión       ",
+    "crditoparcial": "0,00%",
+    "nmero": "4",
+    "frecuencia": "4,65%"
+},{
+    "respuestamodelo": "Sin cambio en el flujo sanguíneo renal porque la autorregulación mantiene el flujo constante aun en choque   ",
+    "crditoparcial": "0,00%",
+    "nmero": "5",
+    "frecuencia": "5,81%"
+},{
+    "respuestamodelo": "[Sin respuesta]",
+    "crditoparcial": "0,00%",
+    "nmero": "0",
+    "frecuencia": "0,00%"
+}],[{
+    "respuestamodelo": " Apertura de canales mecánicos en estereocilios → entrada de potasio desde la endolinfa y despolarización de la célula ciliada       ",
+    "crditoparcial": "100,00%",
+    "nmero": "69",
+    "frecuencia": "80,23%"
+},{
+    "respuestamodelo": "Cierre de canales mecánicos en estereocilios → salida de sodio hacia la endolinfa y despolarización de la célula ciliada       ",
+    "crditoparcial": "0,00%",
+    "nmero": "11",
+    "frecuencia": "12,79%"
+},{
+    "respuestamodelo": "Apertura de canales de cloro en la membrana basolateral → entrada de cloro y despolarización de la célula ciliad   ",
+    "crditoparcial": "0,00%",
+    "nmero": "3",
+    "frecuencia": "3,49%"
+},{
+    "respuestamodelo": " Cierre de canales de calcio en la base → disminución de liberación de glutamato y mayor activación del nervio auditivo    ",
+    "crditoparcial": "0,00%",
+    "nmero": "3",
+    "frecuencia": "3,49%"
+},{
+    "respuestamodelo": "[Sin respuesta]",
+    "crditoparcial": "0,00%",
+    "nmero": "0",
+    "frecuencia": "0,00%"
+}],[{
+    "respuestamodelo": "Pérdida de la comparación binaural del tiempo de llegada del sonido y de la diferencia interaural de intensidad, procesadas en núcleos olivares superiores del tronco encefálico   ",
+    "crditoparcial": "100,00%",
+    "nmero": "64",
+    "frecuencia": "71,91%"
+},{
+    "respuestamodelo": " Incapacidad para detectar cambios de altura (frecuencia) por daño del ápice de la cóclea que codifica tonos agudos       ",
+    "crditoparcial": "0,00%",
+    "nmero": "1",
+    "frecuencia": "1,12%"
+},{
+    "respuestamodelo": "Disminución de la conducción aérea por fijación del estribo, lo que afecta exclusivamente la localización vertical del sonido       ",
+    "crditoparcial": "0,00%",
+    "nmero": "2",
+    "frecuencia": "2,25%"
+},{
+    "respuestamodelo": " Pérdida del reflejo estapedial bilateral, que es el principal determinante de localización izquierda–derecha    ",
+    "crditoparcial": "0,00%",
+    "nmero": "22",
+    "frecuencia": "24,72%"
+},{
+    "respuestamodelo": "[Sin respuesta]",
+    "crditoparcial": "0,00%",
+    "nmero": "0",
+    "frecuencia": "0,00%"
+}],[{
+    "respuestamodelo": "Microvellosidades de los enterocitos   ",
+    "crditoparcial": "0,00%",
+    "nmero": "3",
+    "frecuencia": "3,45%"
+},{
+    "respuestamodelo": "Criptas de Lieberkühn   ",
+    "crditoparcial": "0,00%",
+    "nmero": "4",
+    "frecuencia": "4,60%"
+},{
+    "respuestamodelo": "Placas de Peyer en la lámina propia   ",
+    "crditoparcial": "0,00%",
+    "nmero": "2",
+    "frecuencia": "2,30%"
+},{
+    "respuestamodelo": "Glándulas de Brunner en la submucosa   ",
+    "crditoparcial": "100,00%",
+    "nmero": "76",
+    "frecuencia": "87,36%"
+},{
+    "respuestamodelo": "Enterocitos del Epitelio Superficial   ",
+    "crditoparcial": "0,00%",
+    "nmero": "1",
+    "frecuencia": "1,15%"
+},{
+    "respuestamodelo": "[Sin respuesta]",
+    "crditoparcial": "0,00%",
+    "nmero": "1",
+    "frecuencia": "1,15%"
+}],[{
+    "respuestamodelo": "Glándulas de Brunner en la submucosa   ",
+    "crditoparcial": "0,00%",
+    "nmero": "5",
+    "frecuencia": "5,75%"
+},{
+    "respuestamodelo": "Pliegues circulares (o de Kerkring) bien desarrollados   ",
+    "crditoparcial": "100,00%",
+    "nmero": "74",
+    "frecuencia": "85,06%"
+},{
+    "respuestamodelo": "Abundantes células caliciformes en el epitelio   ",
+    "crditoparcial": "0,00%",
+    "nmero": "8",
+    "frecuencia": "9,20%"
+},{
+    "respuestamodelo": "[Sin respuesta]",
+    "crditoparcial": "0,00%",
+    "nmero": "0",
+    "frecuencia": "0,00%"
+}],[{
+    "respuestamodelo": "Estría vascular   ",
+    "crditoparcial": "0,00%",
+    "nmero": "0",
+    "frecuencia": "0,00%"
+},{
+    "respuestamodelo": "Membrana tectoria   ",
+    "crditoparcial": "0,00%",
+    "nmero": "14",
+    "frecuencia": "15,91%"
+},{
+    "respuestamodelo": "Membrana vestibular   ",
+    "crditoparcial": "0,00%",
+    "nmero": "10",
+    "frecuencia": "11,36%"
+},{
+    "respuestamodelo": "Membrana Basilar   ",
+    "crditoparcial": "100,00%",
+    "nmero": "62",
+    "frecuencia": "70,45%"
+},{
+    "respuestamodelo": "Ligamento espiral   ",
+    "crditoparcial": "0,00%",
+    "nmero": "2",
+    "frecuencia": "2,27%"
+},{
+    "respuestamodelo": "[Sin respuesta]",
+    "crditoparcial": "0,00%",
+    "nmero": "0",
+    "frecuencia": "0,00%"
+}],[{
+    "respuestamodelo": "Células amacrinas   ",
+    "crditoparcial": "0,00%",
+    "nmero": "6",
+    "frecuencia": "6,98%"
+},{
+    "respuestamodelo": "Bastones   ",
+    "crditoparcial": "0,00%",
+    "nmero": "3",
+    "frecuencia": "3,49%"
+},{
+    "respuestamodelo": "Células horizontales   ",
+    "crditoparcial": "0,00%",
+    "nmero": "7",
+    "frecuencia": "8,14%"
+},{
+    "respuestamodelo": "Conos   ",
+    "crditoparcial": "0,00%",
+    "nmero": "0",
+    "frecuencia": "0,00%"
+},{
+    "respuestamodelo": "Neuronas ganglionares   ",
+    "crditoparcial": "100,00%",
+    "nmero": "70",
+    "frecuencia": "81,40%"
+},{
+    "respuestamodelo": "[Sin respuesta]",
+    "crditoparcial": "0,00%",
+    "nmero": "0",
+    "frecuencia": "0,00%"
+}],[{
+    "respuestamodelo": "Podocitos   ",
+    "crditoparcial": "0,00%",
+    "nmero": "16",
+    "frecuencia": "18,60%"
+},{
+    "respuestamodelo": "Endotelio capilar   ",
+    "crditoparcial": "0,00%",
+    "nmero": "0",
+    "frecuencia": "0,00%"
+},{
+    "respuestamodelo": "Células mesangiales intraglomerulares   ",
+    "crditoparcial": "100,00%",
+    "nmero": "63",
+    "frecuencia": "73,26%"
+},{
+    "respuestamodelo": "Células mesangiales extraglomerulares   ",
+    "crditoparcial": "0,00%",
+    "nmero": "7",
+    "frecuencia": "8,14%"
+},{
+    "respuestamodelo": "Epitelio visceral de la cápsula de Bowman   ",
+    "crditoparcial": "0,00%",
+    "nmero": "0",
+    "frecuencia": "0,00%"
+},{
+    "respuestamodelo": "[Sin respuesta]",
+    "crditoparcial": "0,00%",
+    "nmero": "0",
+    "frecuencia": "0,00%"
+}],[{
+    "respuestamodelo": "Epitelio plano estratificado no queratinizado   ",
+    "crditoparcial": "0,00%",
+    "nmero": "9",
+    "frecuencia": "10,34%"
+},{
+    "respuestamodelo": "Epitelio cúbico simple con microvellosidades   ",
+    "crditoparcial": "0,00%",
+    "nmero": "3",
+    "frecuencia": "3,45%"
+},{
+    "respuestamodelo": "Epitelio cúbico estratificado   ",
+    "crditoparcial": "100,00%",
+    "nmero": "44",
+    "frecuencia": "50,57%"
+},{
+    "respuestamodelo": "Epitelio plano simple que alterna con epitelio cúbico simple   ",
+    "crditoparcial": "0,00%",
+    "nmero": "31",
+    "frecuencia": "35,63%"
+},{
+    "respuestamodelo": "[Sin respuesta]",
+    "crditoparcial": "0,00%",
+    "nmero": "0",
+    "frecuencia": "0,00%"
+}],[{
+    "respuestamodelo": "1   ",
+    "crditoparcial": "0,00%",
+    "nmero": "2",
+    "frecuencia": "2,27%"
+},{
+    "respuestamodelo": "12   ",
+    "crditoparcial": "0,00%",
+    "nmero": "26",
+    "frecuencia": "29,55%"
+},{
+    "respuestamodelo": "11   ",
+    "crditoparcial": "0,00%",
+    "nmero": "6",
+    "frecuencia": "6,82%"
+},{
+    "respuestamodelo": "6   ",
+    "crditoparcial": "100,00%",
+    "nmero": "46",
+    "frecuencia": "52,27%"
+},{
+    "respuestamodelo": "4   ",
+    "crditoparcial": "0,00%",
+    "nmero": "8",
+    "frecuencia": "9,09%"
+},{
+    "respuestamodelo": "[Sin respuesta]",
+    "crditoparcial": "0,00%",
+    "nmero": "0",
+    "frecuencia": "0,00%"
+}],[{
+    "partedelapregunta": "56894700",
+    "respuesta": "Acidosis metabólica   ",
+    "crditoparcial": "0,00%",
+    "nmero": "7",
+    "frecuencia": "8,24%"
+},{
+    "partedelapregunta": "56894701",
+    "respuesta": "Alcalosis metabólica   ",
+    "crditoparcial": "0,00%",
+    "nmero": "6",
+    "frecuencia": "7,06%"
+},{
+    "partedelapregunta": "56894702",
+    "respuesta": "Acidosis respiratoria   ",
+    "crditoparcial": "100,00%",
+    "nmero": "67",
+    "frecuencia": "78,82%"
+},{
+    "partedelapregunta": "56894703",
+    "respuesta": "Alcalosis respiratoria   ",
+    "crditoparcial": "0,00%",
+    "nmero": "22",
+    "frecuencia": "25,88%"
+},{
+    "partedelapregunta": "56894704",
+    "respuesta": "Acidosis metabólica compensada   ",
+    "crditoparcial": "0,00%",
+    "nmero": "5",
+    "frecuencia": "5,88%"
+}],[{
+    "partedelapregunta": "56894710",
+    "respuesta": "Bradipnea con respiraciones superficiales   ",
+    "crditoparcial": "0,00%",
+    "nmero": "22",
+    "frecuencia": "25,58%"
+},{
+    "partedelapregunta": "56894711",
+    "respuesta": "Respiración profundas y rápidas (hiperventilación)   ",
+    "crditoparcial": "100,00%",
+    "nmero": "73",
+    "frecuencia": "84,88%"
+},{
+    "partedelapregunta": "56894712",
+    "respuesta": "Uso excesivo de músculos accesorios sin aumento de frecuencia   ",
+    "crditoparcial": "0,00%",
+    "nmero": "19",
+    "frecuencia": "22,09%"
+},{
+    "partedelapregunta": "56894713",
+    "respuesta": "Apneas intermitentes   ",
+    "crditoparcial": "0,00%",
+    "nmero": "18",
+    "frecuencia": "20,93%"
+},{
+    "partedelapregunta": "56894714",
+    "respuesta": "Estertores en todos los campos pulmonares   ",
+    "crditoparcial": "0,00%",
+    "nmero": "9",
+    "frecuencia": "10,47%"
+}],[{
+    "partedelapregunta": "56894721",
+    "respuesta": "Acidosis metabólica parcialmente compensado con anión gap normal    ",
+    "crditoparcial": "0,00%",
+    "nmero": "21",
+    "frecuencia": "23,86%"
+},{
+    "partedelapregunta": "56894722",
+    "respuesta": "Acidosis metabólica totalmente compensado con anión gap elevado    ",
+    "crditoparcial": "0,00%",
+    "nmero": "8",
+    "frecuencia": "9,09%"
+},{
+    "partedelapregunta": "56894723",
+    "respuesta": "Acidosis metabólica descompensada y anión gap elevado   ",
+    "crditoparcial": "100,00%",
+    "nmero": "62",
+    "frecuencia": "70,45%"
+},{
+    "partedelapregunta": "56894724",
+    "respuesta": "Acidosis respiratoria aguda parcialmente compensada   ",
+    "crditoparcial": "0,00%",
+    "nmero": "6",
+    "frecuencia": "6,82%"
+},{
+    "partedelapregunta": "56894725",
+    "respuesta": "Alcalosis metabólica descompensada con anión gap aumentado   ",
+    "crditoparcial": "0,00%",
+    "nmero": "9",
+    "frecuencia": "10,23%"
+}],[{
+    "partedelapregunta": "56894742",
+    "respuesta": "Acidosis respiratoria aguda   ",
+    "crditoparcial": "0,00%",
+    "nmero": "9",
+    "frecuencia": "10,11%"
+},{
+    "partedelapregunta": "56894743",
+    "respuesta": "Acidosis respiratoria crónica compensada   ",
+    "crditoparcial": "100,00%",
+    "nmero": "61",
+    "frecuencia": "68,54%"
+},{
+    "partedelapregunta": "56894744",
+    "respuesta": "Acidosis metabolica aguda compensada   ",
+    "crditoparcial": "0,00%",
+    "nmero": "9",
+    "frecuencia": "10,11%"
+},{
+    "partedelapregunta": "56894745",
+    "respuesta": "Alcalosis metabólica compensada   ",
+    "crditoparcial": "0,00%",
+    "nmero": "13",
+    "frecuencia": "14,61%"
+},{
+    "partedelapregunta": "56894746",
+    "respuesta": "Trastorno ácido–base mixto (acidosis metabólica y respiratoria)   ",
+    "crditoparcial": "0,00%",
+    "nmero": "27",
+    "frecuencia": "30,34%"
+}],[{
+    "partedelapregunta": "56894759",
+    "respuesta": "Disminución de la excreción urinaria de glucosa   ",
+    "crditoparcial": "0,00%",
+    "nmero": "25",
+    "frecuencia": "28,74%"
+},{
+    "partedelapregunta": "56894760",
+    "respuesta": "Aumento de la reabsorción tubular de sodio   ",
+    "crditoparcial": "0,00%",
+    "nmero": "20",
+    "frecuencia": "22,99%"
+},{
+    "partedelapregunta": "56894761",
+    "respuesta": "Glucosuria con una mayor excreción de sodio   ",
+    "crditoparcial": "100,00%",
+    "nmero": "64",
+    "frecuencia": "73,56%"
+},{
+    "partedelapregunta": "56894762",
+    "respuesta": "Hiperglucemia y aumento de la hemoglobina glicada   ",
+    "crditoparcial": "0,00%",
+    "nmero": "23",
+    "frecuencia": "26,44%"
+},{
+    "partedelapregunta": "56894763",
+    "respuesta": "Hipokalemia por un aumento en la excreción de potasio   ",
+    "crditoparcial": "0,00%",
+    "nmero": "19",
+    "frecuencia": "21,84%"
+}],[{
+    "partedelapregunta": "56894764",
+    "respuesta": "Parcial de orina con nitritos positivos   ",
+    "crditoparcial": "0,00%",
+    "nmero": "19",
+    "frecuencia": "22,35%"
+},{
+    "partedelapregunta": "56894765",
+    "respuesta": "Anemia    ",
+    "crditoparcial": "100,00%",
+    "nmero": "9",
+    "frecuencia": "10,59%"
+},{
+    "partedelapregunta": "56894766",
+    "respuesta": "Creatinina y cistatina C, disminuidos   ",
+    "crditoparcial": "0,00%",
+    "nmero": "51",
+    "frecuencia": "60,00%"
+},{
+    "partedelapregunta": "56894767",
+    "respuesta": "Glucosuria   ",
+    "crditoparcial": "0,00%",
+    "nmero": "68",
+    "frecuencia": "80,00%"
+},{
+    "partedelapregunta": "56894768",
+    "respuesta": "Alcalosis metabólica   ",
+    "crditoparcial": "0,00%",
+    "nmero": "10",
+    "frecuencia": "11,76%"
+}],[{
+    "respuestamodelo": "nervio petroso mayor   ",
+    "crditoparcial": "0,00%",
+    "nmero": "5",
+    "frecuencia": "5,88%"
+},{
+    "respuestamodelo": "nervio petroso menor   ",
+    "crditoparcial": "0,00%",
+    "nmero": "3",
+    "frecuencia": "3,53%"
+},{
+    "respuestamodelo": "cuerda del timpano   ",
+    "crditoparcial": "100,00%",
+    "nmero": "5",
+    "frecuencia": "5,88%"
+},{
+    "respuestamodelo": "nervio timpanico   ",
+    "crditoparcial": "0,00%",
+    "nmero": "2",
+    "frecuencia": "2,35%"
+},{
+    "respuestamodelo": "rama mandibular del trigemino   ",
+    "crditoparcial": "0,00%",
+    "nmero": "70",
+    "frecuencia": "82,35%"
+},{
+    "respuestamodelo": "[Sin respuesta]",
+    "crditoparcial": "0,00%",
+    "nmero": "0",
+    "frecuencia": "0,00%"
+}]]
